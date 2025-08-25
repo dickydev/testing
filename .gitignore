@@ -1,0 +1,9 @@
+/node_modules
+/src/style/output.css
+
+.DS_STORE
+
+package-lock.json
+
+*.env
+.env
